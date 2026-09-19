@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-ffdebd?style=for-the-badge)](#)
 
-**[Русский](#-русский) · [English](#-english)**
+**🇷🇺 [Русский](#-русский) · 🇬🇧 [English](#-english)**
 
 </div>
 
@@ -31,7 +31,7 @@ Aim at the monitor with the code, press **Z** — and get a beautifully framed s
 
 <div align="center">
 
-## РУССКИЙ
+## 🇷🇺 РУССКИЙ
 
 </div>
 
@@ -146,7 +146,7 @@ WINDOW_OFFSET_Y = 70          # отступ снизу
 
 <div align="center">
 
-## ENGLISH
+## 🇬🇧 ENGLISH
 
 </div>
 
