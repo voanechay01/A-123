@@ -31,7 +31,7 @@ Aim at the monitor with the code, press **Z** — and get a beautifully framed s
 
 <div align="center">
 
-## 🇷🇺 РУССКИЙ
+## РУССКИЙ
 
 </div>
 
@@ -146,7 +146,7 @@ WINDOW_OFFSET_Y = 70          # отступ снизу
 
 <div align="center">
 
-## 🇬🇧 ENGLISH
+## ENGLISH
 
 </div>
 
