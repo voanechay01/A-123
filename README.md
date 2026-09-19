@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-ffdebd?style=for-the-badge)](#)
 
-**🇷🇺 [Русский](#-русский) · 🇬🇧 [English](#-english)**
+**[Русский](#-русский) · [English](#-english)**
 
 </div>
 
